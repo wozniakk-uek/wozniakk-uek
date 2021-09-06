@@ -1,5 +1,5 @@
 - 👋 I'm dr Krzysztof Woźniak
-- 👀 I’m interested in using softwara to improve efficienty of management practices
+- 👀 I’m interested in using computer software to improve efficienty of management practices
 - 📫 More information on my homepage: https://wozniak.edu.pl
 
 <!---
